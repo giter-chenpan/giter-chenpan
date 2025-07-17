@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giter-chenpan
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning node
+- 👀 I’m interested in JS、RUST
+- 🌱 I’m currently learning RUST、WEB3
 - 💞️ I’m looking to collaborate on CN
 - 📫 How to reach me ...
 
